@@ -1,0 +1,57 @@
+
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+
+body, html {
+  height: 100%;
+  line-height: 1.8;
+}
+
+/* image header */
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url("woman-working-from-home-laptop1.jpg");
+  min-height: 100%;
+}
+
+.w3-bar .w3-button {
+  padding: 16px;
+}
+
+.my-button:hover {
+  background-color: #ccc;
+}
+
+#gallery:hover {
+            transform: scale(1.1);
+            box-shadow: ;
+             }
+#gallery{ transition: 0.8s;}
+
+h2.w3-wide {
+  text-decoration-line: line-through;
+  text-decoration-style: double;
+}
+
+b.rate{text-decoration: none;
+text-decoration-style: none; }
+
+#nav{
+   transition: 0.8s;
+   border-right: 1px solid red;
+   padding: 3px;
+   margin-right: ;
+}
+
+.w3-third:hover {
+            transform: scale(1.1);
+            box-shadow: ;
+             }
+.w3-third{ transition: 0.8s;}
+
+#h:hover{  transform: scale(1.1);
+  
+}
+#h{
+  transition: 0.8s;
+}
